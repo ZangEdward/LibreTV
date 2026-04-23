@@ -441,19 +441,6 @@
 
     <!-- 添加弹窗和URL搜索参数处理脚本 -->
     <script src="js/index-page.js"></script>
- <!-- 以下ai自动全选资源 -->
-    <script>
-    window.addEventListener('load', function() {
-        // 1. 强制清理旧的选中记录（LibreTV 通常使用 selectedAPIs 这个 Key）
-        localStorage.removeItem('selectedAPIs');
-        
-        // 2. 稍微延迟确保 DOM 已生成
-        setTimeout(() => {
-            if (typeof selectAllAPIs === 'function') {
-                selectAllAPIs(true);
-            }
-        }, 200);
-    });
-</script>
+ 
 </body>
 </html>
