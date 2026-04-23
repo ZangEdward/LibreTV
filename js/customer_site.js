@@ -27,6 +27,10 @@ const CUSTOMER_SITES = {
         api: 'https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/', 
         name: '茅台资源',
     },
+    kk_yun: {
+        api: 'https://cj.lziapi.com/api.php/provide/vod/at/json',
+        name: '夸克云盘资源',
+    },
     naixiangxiang: {
         api: 'https://Naixxzy.com/api.php/provide/vod/',
         name: '奶香香资源',
