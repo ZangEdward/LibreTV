@@ -34,6 +34,14 @@ const CUSTOMER_SITES = {
     naixiangxiang: {
         api: 'https://Naixxzy.com/api.php/provide/vod/',
         name: '奶香香资源',
+    },
+    ruyi: {
+        api: 'https://cj.rycjapi.com/api.php/provide/vod/at/xml/',
+        name: '如意资源',
+    },
+    huya: {
+        api: 'https://www.huyaapi.com/api.php/provide/vod/from/hyyun/at/xml/',
+        name: '虎牙资源',
     }
 };
 
