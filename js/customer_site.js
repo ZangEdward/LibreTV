@@ -1,7 +1,7 @@
 const CUSTOMER_SITES = {
-    qiqi: {
-        api: 'https://www.qiqidys.com/api.php/provide/vod',
-        name: '七七资源',
+    ikun: {
+        api: 'https://ikunzyapi.com/api.php/provide/vod ',
+        name: 'ikun资源',
     },
     wolong: {
         api: 'https://collect.wolongzyw.com/api.php/provide/vod', 
