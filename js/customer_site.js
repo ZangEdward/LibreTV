@@ -27,9 +27,9 @@ const CUSTOMER_SITES = {
         api: 'https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/', 
         name: '茅台资源',
     },
-    danaizi: {
-        api: 'https://apidanaizi.com/api.php/provide/vod/at/xml/',
-        name: '大奶子资源',
+    naixiangxiang: {
+        api: 'https://Naixxzy.com/api.php/provide/vod/',
+        name: '奶香香资源',
     }
 };
 
